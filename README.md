@@ -14,7 +14,8 @@ Watch the demo video to see the 3D image slider in action:
 
 Here’s a screenshot of the 3D image slider in action:
 
-![3D Image Slider Screenshot](path/to/your/image.jpg)
+![3D Image Slider Screenshot]![Uploading image.png…]()
+
 
 ## Features
 
