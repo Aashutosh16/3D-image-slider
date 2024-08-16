@@ -6,8 +6,8 @@ Welcome to the **3D Image Slider** repository! This project demonstrates how to 
 
 Watch the demo video to see the 3D image slider in action:
 
-[![3D Image Slider Demo][(https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)](https://github.com/user-attachments/assets/a03fa844-08ef-4d75-9009-efde935295f0
-)
+[![3D Image Slider Demo]https://github.com/user-attachments/assets/a03fa844-08ef-4d75-9009-efde935295f0
+
 
 *Click the image above to watch the video on YouTube.*
 
